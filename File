@@ -1,6 +1,0 @@
-git init
-git remote add origin https://github.com/CrawfordL/ReactApplication.git
-git add .
-git config --global user.email "cralyd5064@students.ecpi.edu"
-git comit -m "Initial commit"
-git push -u origin master
